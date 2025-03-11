@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<section class="banner">
+    <img src="~/images/banner.jpg" alt="Banner Image">
+</section>
+
+@await Component.InvokeAsync("TopPicks")
+
+@await Component.InvokeAsync("Category")
+
+@await Component.InvokeAsync("Outlets")
+
+
+
+

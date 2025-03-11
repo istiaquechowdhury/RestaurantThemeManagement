@@ -1,0 +1,17 @@
+﻿[
+  {
+    "outputFile": "wwwroot/Saas/Main.css",
+    "inputFile": "wwwroot/Saas/Main.scss",
+    "minify": {
+      "enabled": false
+    },
+    "options": {
+      "sourceMap": true,
+      "watch": true
+    }
+  },
+  {
+    "outputFile": "wwwroot/PrivacySaas/Main.css",
+    "inputFile": "wwwroot/PrivacySaas/Main.scss"
+  }
+]

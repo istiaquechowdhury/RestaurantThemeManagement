@@ -1,0 +1,23 @@
+﻿
+@using RestaurantThemeManagement.Views.Shared.Components.Model
+@model List<OutLets>
+@{
+    ViewData["Title"] = "Outlets";
+}
+
+<section class="outlets">
+    <h2>Outlets</h2>
+    <div class="outlets-container">
+        @foreach (var item in Model)
+        {
+            <div class="outlet">
+                <img src="@item.ImageUrl" alt="@item.Address">
+                <h3>@item.Address</h3>
+            </div>
+        }
+    </div>
+</section>
+
+
+
+

@@ -1,0 +1,21 @@
+﻿@using RestaurantThemeManagement.Views.Shared.Components.Model
+@model List<TopPicks>
+@{
+    ViewData["Title"] = "TopPicks";
+}
+
+<section class="top-picks">
+    <h2>Top Picks</h2>
+    <div class="top-picks-container">
+        @foreach (var item in Model)
+        {
+            <div class="top-pick">
+                <img src="@item.ImageUrl" alt="@item.Name">
+                <h3>@item.Name</h3>
+                <p>@item.Description</p>
+            </div>
+        }
+    </div>
+</section>
+
+

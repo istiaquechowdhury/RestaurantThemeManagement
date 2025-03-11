@@ -1,0 +1,10 @@
+﻿.banner {
+    width: 100%;
+
+    img {
+        width: 100%;
+        height: auto;
+        display: block; // Removes extra spacing below image
+        object-fit: cover; // Ensures the image covers the section properly
+    }
+}

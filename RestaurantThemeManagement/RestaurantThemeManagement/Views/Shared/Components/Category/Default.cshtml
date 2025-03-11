@@ -1,0 +1,22 @@
+﻿@using RestaurantThemeManagement.Views.Shared.Components.Model
+
+@{
+    ViewData["Title"] = "Default";
+}
+
+@model List<Category>
+
+<section class="top-Categories">
+    <h2>Category</h2>
+    <div class="Category-Container">
+        @foreach(var item in Model)
+        {
+            <div class="top-category">
+               <h3>@item.Name</h3>
+
+            
+            </div>
+        }
+    </div>
+</section>
+

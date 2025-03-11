@@ -1,0 +1,57 @@
+﻿// Footer Styling
+.footer {
+    background-color: #333; // Dark Background Color
+    color: #fff; // White Text
+    padding: 30px 0; // Add some padding
+    text-align: center;
+    position: relative;
+    z-index: 100;
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+
+    a {
+        color: #4a90e2; // Blue Color for Links
+        text-decoration: none;
+        transition: color 0.3s ease;
+        font-weight: bold;
+
+        &:hover {
+            color: #fff; // Change link color on hover
+            text-decoration: underline;
+        }
+    }
+
+    p {
+        font-size: 16px;
+        margin: 0;
+        font-family: 'Open Sans', sans-serif;
+        letter-spacing: 1px;
+    }
+    // Adding a subtle gradient background effect to the footer
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), transparent);
+        z-index: -1;
+    }
+    // Responsive Design for smaller screens
+    @media (max-width: 768px) {
+        padding: 20px 0;
+
+        p {
+            font-size: 14px;
+        }
+
+        a {
+            font-size: 14px;
+        }
+    }
+}

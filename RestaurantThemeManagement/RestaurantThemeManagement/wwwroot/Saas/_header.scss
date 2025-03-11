@@ -1,0 +1,27 @@
+﻿// Navbar Styling
+
+.navbar {
+    background-color: #000; // Blackv background color
+}
+
+.navbar-brand{
+    color: #fff !important;
+}
+
+.navbar-nav {
+    margin-left: auto; // Align navbar items to the right
+}
+
+.nav-item {
+    margin-right: 1.5rem; // Space between navbar items
+}
+
+.nav-link {
+    color: #fff !important; // White color for the links
+    font-size: 1rem;
+    font-weight: 500;
+
+    &:hover {
+        color: #007bff; // Blue color on hover
+    }
+}

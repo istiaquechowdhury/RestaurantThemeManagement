@@ -1,0 +1,195 @@
+﻿.navbar {
+  background-color: #000;
+}
+
+.navbar-brand {
+  color: #fff !important;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  margin-right: 1.5rem;
+}
+
+.nav-link {
+  color: #fff !important;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.nav-link:hover {
+  color: #007bff;
+}
+
+.banner {
+  width: 100%;
+  height: 80vh;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.banner img {
+  width: 100vw;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.top-picks {
+  text-align: center;
+  background-color: #f8f9fa;
+  padding: 50px 20px;
+}
+.top-picks h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.top-picks .top-picks-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.top-picks .top-pick {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 250px;
+}
+.top-picks .top-pick img {
+  width: 100%;
+  border-radius: 10px;
+}
+.top-picks .top-pick h3 {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+.top-picks .top-pick p {
+  font-size: 1rem;
+  color: #555;
+}
+
+.top-Categories {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #f8f9fa;
+}
+.top-Categories h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.top-Categories .Category-Container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.top-Categories .top-category {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+}
+.top-Categories .top-category:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+}
+.top-Categories .top-category h3 {
+  font-size: 1.5rem;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+.outlets {
+  padding: 50px 0;
+  background: #f8f9fa;
+  text-align: center;
+}
+.outlets h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.outlets .outlets-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.outlets .outlets-container .outlet {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 300px;
+  transition: transform 0.3s ease-in-out;
+}
+.outlets .outlets-container .outlet:hover {
+  transform: translateY(-5px);
+}
+.outlets .outlets-container .outlet img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.outlets .outlets-container .outlet h3 {
+  font-size: 18px;
+  color: #444;
+  padding: 15px;
+  background: #fff;
+  margin: 0;
+  font-weight: 500;
+}
+@media (max-width: 768px) {
+  .outlets .outlets-container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+footer {
+  background: #222;
+  color: #ddd;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 14px;
+}
+footer .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+footer .container a {
+  color: #ff9900;
+  text-decoration: none;
+  margin-left: 10px;
+  transition: color 0.3s ease-in-out;
+}
+footer .container a:hover {
+  color: #ffcc66;
+  text-decoration: underline;
+}
+@media (max-width: 768px) {
+  footer {
+    font-size: 12px;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8,%7B%22version%22:3,%22sourceRoot%22:%22%22,%22sources%22:%5B%22file:///C:/Users/istia/source/repos/RestaurantThemeManagement/RestaurantThemeManagement/wwwroot/Saas/_header.scss%22,%22file:///C:/Users/istia/source/repos/RestaurantThemeManagement/RestaurantThemeManagement/wwwroot/Saas/_banner.scss%22,%22file:///C:/Users/istia/source/repos/RestaurantThemeManagement/RestaurantThemeManagement/wwwroot/Saas/_TopPicks.scss%22,%22file:///C:/Users/istia/source/repos/RestaurantThemeManagement/RestaurantThemeManagement/wwwroot/Saas/_category.scss%22,%22file:///C:/Users/istia/source/repos/RestaurantThemeManagement/RestaurantThemeManagement/wwwroot/Saas/_outlets.scss%22,%22file:///C:/Users/istia/source/repos/RestaurantThemeManagement/RestaurantThemeManagement/wwwroot/Saas/_footer.scss%22%5D,%22names%22:%5B%5D,%22mappings%22:%22AAEA;EACI;;;AAGJ;EACI;;;AAGJ;EACI;;;AAGJ;EACI;;;AAGJ;EACI;EACA;EACA;;AAEA;EACI;;;ACxBP;EACG;EACA;EACA;EACA;EACA;;AAEA;EACI;EACA;EACA;EACA;EACA;;;ACZP;EACG;EACA;EACA;;AAEA;EACI;EACA;;AAGJ;EACI;EACA;EACA;EACA;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;AAEA;EACI;EACA;;AAGJ;EACI;EACA;;AAGJ;EACI;EACA;;;ACrCX;EACG;EACA;EACA;;AAEA;EACI;EACA;EACA;EACA;EACA;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;AAEA;EACI;EACA;;AAGJ;EACI;EACA;EACA;;;ACtCX;EACG;EACA;EACA;;AAEA;EACI;EACA;EACA;EACA;EACA;;AAGJ;EACI;EACA;EACA;EACA;;AAEA;EACI;EACA;EACA;EACA;EACA;EACA;;AAEA;EACI;;AAGJ;EACI;EACA;EACA;EACA;EACA;;AAGJ;EACI;EACA;EACA;EACA;EACA;EACA;;AAKZ;EACI;IACI;IACA;;;;ACrDX;EACG;EACA;EACA;EACA;EACA;;AAEA;EACI;EACA;EACA;EACA;;AAEA;EACI;EACA;EACA;EACA;;AAEA;EACI;EACA;;AAKZ;EA1BH;IA2BO%22%7D */

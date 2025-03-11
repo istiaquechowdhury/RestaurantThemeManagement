@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "~/Views/Shared/_PrivacyLayout.cshtml"; // Specify the layout path
+
+   
+}
+
+
+<section class="banner">
+<img src="~/images/banner2.jpg" alt="Banner Image">
+</section>
+
+@await Component.InvokeAsync("Category")
+@await Component.InvokeAsync("TopPicks")
+@await Component.InvokeAsync("Outlets")
+ 
