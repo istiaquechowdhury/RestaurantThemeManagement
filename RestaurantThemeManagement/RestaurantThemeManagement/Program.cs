@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.EntityFrameworkCore;
 using RestaurantThemeManagement.Data;
 using RestaurantThemeManagement.Views;
@@ -15,7 +16,12 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
-
+// In Startup.ConfigureServices or Program.cs builder section
+// In Startup.ConfigureServices or Program.cs builder section
+builder.Services.Configure<RazorViewEngineOptions>(options =>
+{
+    options.ViewLocationExpanders.Add(new BrandViewLocationExpander());
+});
 
 
 

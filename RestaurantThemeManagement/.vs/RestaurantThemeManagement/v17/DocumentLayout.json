@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\BrandViewLocationExpander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantThemeManagement\\Views\\BrandViewLocationExpander.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\views\\customviewlocationexpender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\views\\customviewlocationexpender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\views\\shared\\_privacylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\views\\shared\\_privacylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\views\\shared\\components\\toppicks\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\wwwroot\\privacysaas\\_footer.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\wwwroot\\privacysaas\\_footer.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\views\\shared\\_privacylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|solutionrelative:restaurantthememanagement\\views\\shared\\_privacylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38C041FF-8C1B-4F68-A148-5A3D7DAB2188}|RestaurantThemeManagement\\RestaurantThemeManagement.csproj|c:\\users\\istia\\source\\repos\\restaurantthememanagement\\restaurantthememanagement\\wwwroot\\privacysaas\\_outlets.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
@@ -70,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,19 +91,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "RestaurantThemeManagement\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "RestaurantThemeManagement\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T18:20:24.905Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RestaurantThemeManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T07:44:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "RestaurantThemeManagement\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T07:44:52.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantThemeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\appsettings.json",
+              "RelativeToolTip": "RestaurantThemeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T07:18:25.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RestaurantThemeManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RestaurantThemeManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:20:24.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Shared\\Components\\TopPicks\\Default.cshtml",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\Shared\\Components\\TopPicks\\Default.cshtml",
@@ -99,38 +147,36 @@
               "RelativeToolTip": "RestaurantThemeManagement\\Views\\Shared\\Components\\TopPicks\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-10T16:36:00.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-10T16:36:00.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomViewLocationExpender.cs",
-              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\CustomViewLocationExpender.cs",
-              "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\CustomViewLocationExpender.cs",
-              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\CustomViewLocationExpender.cs",
-              "RelativeToolTip": "RestaurantThemeManagement\\Views\\CustomViewLocationExpender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BrandViewLocationExpander.cs",
+              "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\BrandViewLocationExpander.cs",
+              "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\BrandViewLocationExpander.cs",
+              "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\BrandViewLocationExpander.cs",
+              "RelativeToolTip": "RestaurantThemeManagement\\Views\\BrandViewLocationExpander.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T05:20:01.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Program.cs",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\Program.cs",
               "ToolTip": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Program.cs",
               "RelativeToolTip": "RestaurantThemeManagement\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T06:26:26.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T06:26:26.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "_footer.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_footer.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_footer.scss",
@@ -142,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_outlets.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_outlets.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_outlets.scss",
@@ -154,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Shared\\Components\\Outlets\\Default.cshtml",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\Shared\\Components\\Outlets\\Default.cshtml",
@@ -166,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "_category.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_category.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_category.scss",
@@ -178,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "TopPicksViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Shared\\Components\\ComponentClass\\TopPicksViewComponent.cs",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\Shared\\Components\\ComponentClass\\TopPicksViewComponent.cs",
@@ -190,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_toppicks.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_toppicks.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_toppicks.scss",
@@ -202,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "_banner.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_banner.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_banner.scss",
@@ -214,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "_header.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_header.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\_header.scss",
@@ -226,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Main.css",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\Main.css",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\Main.css",
@@ -238,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Main.scss",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\wwwroot\\PrivacySaas\\Main.scss",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\wwwroot\\PrivacySaas\\Main.scss",
@@ -250,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "_PrivacyLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\istia\\source\\repos\\RestaurantThemeManagement\\RestaurantThemeManagement\\Views\\Shared\\_PrivacyLayout.cshtml",
               "RelativeDocumentMoniker": "RestaurantThemeManagement\\Views\\Shared\\_PrivacyLayout.cshtml",
